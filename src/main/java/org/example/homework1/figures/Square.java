@@ -1,4 +1,4 @@
-package org.example.figures;
+package org.example.homework1.figures;
 
 public class Square extends Figure {
     private final Double sideLength;

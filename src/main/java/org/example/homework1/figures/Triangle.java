@@ -1,4 +1,4 @@
-package org.example.figures;
+package org.example.homework1.figures;
 
 public class Triangle extends Figure {
     private final Double lengthA;

@@ -1,9 +1,9 @@
-package org.example;
+package org.example.homework1;
 
-import org.example.figures.Circle;
-import org.example.figures.Figure;
-import org.example.figures.Square;
-import org.example.figures.Triangle;
+import org.example.homework1.figures.Circle;
+import org.example.homework1.figures.Figure;
+import org.example.homework1.figures.Square;
+import org.example.homework1.figures.Triangle;
 
 import java.util.ArrayList;
 import java.util.List;

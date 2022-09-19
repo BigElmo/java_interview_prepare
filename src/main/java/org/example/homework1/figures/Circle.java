@@ -1,4 +1,4 @@
-package org.example.figures;
+package org.example.homework1.figures;
 
 public class Circle extends Figure {
     private final Double radius;
